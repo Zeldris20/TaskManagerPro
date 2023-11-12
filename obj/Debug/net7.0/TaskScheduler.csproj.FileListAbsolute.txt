@@ -1,0 +1,14 @@
+C:\Users\ZeldrisOW\Documents\git\TaskScheduler\bin\Debug\net7.0\TaskScheduler.exe
+C:\Users\ZeldrisOW\Documents\git\TaskScheduler\bin\Debug\net7.0\TaskScheduler.deps.json
+C:\Users\ZeldrisOW\Documents\git\TaskScheduler\bin\Debug\net7.0\TaskScheduler.runtimeconfig.json
+C:\Users\ZeldrisOW\Documents\git\TaskScheduler\bin\Debug\net7.0\TaskScheduler.dll
+C:\Users\ZeldrisOW\Documents\git\TaskScheduler\bin\Debug\net7.0\TaskScheduler.pdb
+C:\Users\ZeldrisOW\Documents\git\TaskScheduler\obj\Debug\net7.0\TaskScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZeldrisOW\Documents\git\TaskScheduler\obj\Debug\net7.0\TaskScheduler.AssemblyInfoInputs.cache
+C:\Users\ZeldrisOW\Documents\git\TaskScheduler\obj\Debug\net7.0\TaskScheduler.AssemblyInfo.cs
+C:\Users\ZeldrisOW\Documents\git\TaskScheduler\obj\Debug\net7.0\TaskScheduler.csproj.CoreCompileInputs.cache
+C:\Users\ZeldrisOW\Documents\git\TaskScheduler\obj\Debug\net7.0\TaskScheduler.dll
+C:\Users\ZeldrisOW\Documents\git\TaskScheduler\obj\Debug\net7.0\refint\TaskScheduler.dll
+C:\Users\ZeldrisOW\Documents\git\TaskScheduler\obj\Debug\net7.0\TaskScheduler.pdb
+C:\Users\ZeldrisOW\Documents\git\TaskScheduler\obj\Debug\net7.0\TaskScheduler.genruntimeconfig.cache
+C:\Users\ZeldrisOW\Documents\git\TaskScheduler\obj\Debug\net7.0\ref\TaskScheduler.dll
